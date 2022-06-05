@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lakshani Galwatta</h1>
 <h3 align="center">I am an IT undergraduate of University of Moratuwa, Sri Lanka</h3>
-<img aligh="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshani-98&label=Profile%20views&color=0e75b6&style=flat" alt="lakshani-98" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshani-98" alt="lakshani-98" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshani-98" alt="lakshani-98" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 🔭 I’m currently working on [CGU project](https://github.com/SoftwareChasers-CGU-Project)
 
