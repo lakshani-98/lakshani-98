@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshani Galwatta</h1>
-<h3 align="center">I am an IT undergraduate of University of Moratuwa, Sri Lanka</h3>
+<h3 align="center">I am an IT undergraduate at University of Moratuwa, Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshani-98&label=Profile%20views&color=0e75b6&style=flat" alt="lakshani-98" /> </p>
 
@@ -7,13 +7,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on [CGU project](https://github.com/SoftwareChasers-CGU-Project)
+- 🔭 I’m currently working on Storytelling Application for Deaf Children Using Sri Lankan Sign Language.
 
-- 🌱 I’m currently learning **Angular, NodeJS, AWS**
-
-- 📝 I regularly write articles on [https://medium.com/@nilu.galwatta](https://medium.com/@nilu.galwatta)
-
-- 💬 Ask me about **HTML, CSS, MySQL, Java**
+- 💬 Ask me about **Angular, NodeJS, Java, Python**
 
 - 📫 How to reach me **nilu.galwatta@gmail.com**
 
