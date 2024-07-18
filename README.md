@@ -45,7 +45,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="jmeter" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="jmeter" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sap_crystal/sap_crystal-icon.svg" alt="crystal reports" width="40" height="40"/>
 
 </p>
