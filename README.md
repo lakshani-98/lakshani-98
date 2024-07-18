@@ -46,8 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="jmeter" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/sap_crystal/sap_crystal-icon.svg" alt="crystal reports" width="40" height="40"/>
-
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Crystal_Reports_logo.svg/1200px-Crystal_Reports_logo.svg.png" alt="crystal reports" width="40" height="40"/>
 </p>
 
 
