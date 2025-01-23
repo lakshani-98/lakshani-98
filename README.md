@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshani Galwatta</h1>
-<h3 align="center">I am an IT undergraduate at University of Moratuwa, Sri Lanka</h3>
+<h3 align="center">Fullstack Engineer | AI & Python Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshani-98&label=Profile%20views&color=0e75b6&style=flat" alt="lakshani-98" /> </p>
 
