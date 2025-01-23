@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on Storytelling Application for Deaf Children Using Sri Lankan Sign Language.
+- 🔭 I’m currently working on RAG Chatbot System.
 
 - 💬 Ask me about **Angular, NodeJS, Java, SpringBoot, Python**
 
