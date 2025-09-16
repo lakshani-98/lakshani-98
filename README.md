@@ -7,13 +7,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on RAG Chatbot System.
+- 🔭 I’m currently working on a **Voice Agent platform**
 
 - 🎓 Reading MSc in Data Science & AI @ University of Moratuwa 
 
 - 🎓 Graduated BSc (Hons) in IT @ University of Moratuwa
 
-- 💬 Ask me about **Python | React | Java | Spring Boot | Retrieval-Augmented Generation (RAG)**
+- 💬 Ask me about **Python | React | Java | Spring Boot | RAG**
+
+- 🤖 Interested in Agentic AI and autonomous intelligent systems
 
 - 🚀 Passionate about building AI-driven applications and scalable software solutions
 
