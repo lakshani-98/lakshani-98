@@ -11,7 +11,7 @@
 
 - 🎓 Reading MSc in Data Science & AI @ University of Moratuwa 
 
-- 🎓 Graduated BSc (Hons) in IT @ University of Moratuwa
+- 🎓 BSc (Hons) IT @ University of Moratuwa
 
 - 💬 Ask me about **Python | React | Java | Spring Boot | RAG**
 
