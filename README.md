@@ -9,9 +9,15 @@
 
 - 🔭 I’m currently working on RAG Chatbot System.
 
-- 💬 Ask me about **Python, React, Java, SpringBoot, RAG **
+- 🎓 Reading MSc in Data Science & AI @ University of Moratuwa | 🎓 Graduated BSc (Hons) in IT @ University of Moratuwa
 
-- 📫 How to reach me **lakshani.galwatta@gmail.com**
+- 💬 Ask me about **Python | React | Java | Spring Boot | Retrieval-Augmented Generation (RAG)**
+
+- 🚀 Passionate about building AI-driven applications and scalable software solutions
+
+- 📫 Reach me at **lakshani.galwatta@gmail.com**
+
+- 🛠️ Sharing a mix of academic projects, research, and personal experiments here.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
