@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on RAG Chatbot System.
 
-- 🎓 Reading MSc in Data Science & AI @ University of Moratuwa | 🎓 Graduated BSc (Hons) in IT @ University of Moratuwa
+- 🎓 Reading MSc in Data Science & AI @ University of Moratuwa 
+
+- 🎓 Graduated BSc (Hons) in IT @ University of Moratuwa
 
 - 💬 Ask me about **Python | React | Java | Spring Boot | Retrieval-Augmented Generation (RAG)**
 
