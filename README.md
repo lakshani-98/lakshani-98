@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshani Galwatta</h1>
-<h3 align="center">Python Engineer | AI & ML Enthusiast</h3>
+<h3 align="center">Software Engineer | AI & ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshani-98&label=Profile%20views&color=0e75b6&style=flat" alt="lakshani-98" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on RAG Chatbot System.
 
-- 💬 Ask me about **React, Java, SpringBoot, Python**
+- 💬 Ask me about **Python, React, Java, SpringBoot, RAG **
 
-- 📫 How to reach me **nilu.galwatta@gmail.com**
+- 📫 How to reach me **lakshani.galwatta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
