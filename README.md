@@ -91,3 +91,11 @@
     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
   </tr>
 </table>
+
+<h3 align="left">Most Used Languages:</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshani-98&layout=compact&theme=tokyonight&langs_count=8" 
+  />
+</p>
