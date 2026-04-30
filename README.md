@@ -34,8 +34,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
