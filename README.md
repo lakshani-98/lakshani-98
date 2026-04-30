@@ -50,6 +50,7 @@
     <td><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
 
+    <!-- ONLY CHANGE: Angular → React -->
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
 
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></td>
@@ -64,11 +65,9 @@
     <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40"/></td>
-
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
-
     <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
   </tr>
 </table>
