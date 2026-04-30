@@ -96,6 +96,6 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshani-98&layout=compact&theme=tokyonight&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshani-98&layout=compact&theme=radical&langs_count=8" 
   />
 </p>
