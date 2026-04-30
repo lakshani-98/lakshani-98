@@ -42,14 +42,11 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-
-    <!-- Added here -->
     <td><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></td>
   </tr>
 
   <tr>
-    <!-- Continue remaining including Flask -->
     <td><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
     <td><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/></td>
